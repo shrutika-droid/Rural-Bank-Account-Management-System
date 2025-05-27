@@ -47,11 +47,11 @@ RBAMS simulates a real-world rural banking system where each customer can have s
 
 
 ## 📸 Screenshots
-<img width="355" alt="Deposit" src="https://github.com/user-attachments/assets/66a94524-ef21-42f5-a12a-40c15e3dd7a4" />
+<img width="355" alt="Deposit" src="https://github.com/user-attachments/assets/ddbba634-dabf-4e50-bb2a-2c5adf1d56ef" />
 
-<img width="470" alt="In trest" src="https://github.com/user-attachments/assets/38b41016-0b21-4ec7-bf20-924e4a107f78" />
+<img width="470" alt="In trest" src="https://github.com/user-attachments/assets/f3887f6a-a552-4997-a4ee-ffbbca746eab" />
 
-<img width="528" alt="withdrawn" src="https://github.com/user-attachments/assets/7ef086c6-114d-4106-93f1-270ee69f6cd2" />
+<img width="528" alt="withdrawn" src="https://github.com/user-attachments/assets/e5f77afb-7c26-4345-9183-43318f2bdc3f" />
 
 ---
 
